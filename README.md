@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm Ivan</h1>
-<h3 align="center">A "Mobile Developer"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanm63&label=Profile%20views&color=0e75b6&style=flat" alt="ivanm63" /> </p>
 
